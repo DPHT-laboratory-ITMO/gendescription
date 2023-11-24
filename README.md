@@ -26,6 +26,11 @@
 Такой модульный подход к разработке платформы обеспечивает высокую гибкость и эффективность в проведении скрининга и обработке медицинских данных, что помогает улучшить качество и точность диагностики в медицинской области.
  
 ## Полученные результаты
+Здесь предсталвены результаты команды, полученные в течение работы над проектом, в том числе выступления на конференциях, публикации и прочее.
+- Публикации:
+	- [Препринт](http://arxiv.org/abs/2310.08532)
+- Конференции:
+- Конкурсы:
 # EN
 ## Relevance
 Screening programs are an important component for ensuring and maintaining a healthy lifestyle for both an individual and society as a whole, since they allow identifying potential health problems at an early stage and preventing their development.
@@ -51,3 +56,8 @@ The digital platform is based on a microservice architecture, where each microse
 This modular approach to the development of the platform provides high flexibility and efficiency in screening and processing medical data, which helps to improve the quality and accuracy of diagnostics in the medical field.
 
 ## Related results 
+Here are the team's results obtained during the work on the project, including presentations at conferences, publications, and so on.
+- Publications:
+	- [Preprint](http://arxiv.org/abs/2310.08532 )
+- Conferences:
+- Contests:
